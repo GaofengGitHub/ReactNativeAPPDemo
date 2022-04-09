@@ -19,7 +19,7 @@
   "dependencies": {
     "jsencrypt": "^3.0.0-rc.1",
     "leancloud-storage": "3.6.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "native-base": "^2.6.1",
     "prop-types": "^15.6.1",
     "react": "16.3.1",
